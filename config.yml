@@ -21,3 +21,6 @@ client:
 faucet:
   name: bob
   coins: ['5token', '100000stake']
+init:
+  app:
+    contract-simulation-gas-limit: '50000000'
